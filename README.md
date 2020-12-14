@@ -62,7 +62,7 @@ Creating R plot................................................................\
 .............................................Done
 ```
 
-#WGBS datasets
+# WGBS datasets
 
 Available in .wig format for download from dropbox
 ```
